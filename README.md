@@ -1,15 +1,15 @@
 <!-- 1. GitHub usernameを変更 -->
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=username" />
+  <img src="https://komarev.com/ghpvc/?username=yoshimu-1029" />
 </div>
 
 
 <!-- 2. プロフィールや連絡先を変更 -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello
 
 - 🧑‍💻 I'm a graduate student.
 - 🌱 I’m currently learning Ruby on Rails!
-- 👀 I’m interested in python, AWS, Docker, html, CSS, Javascript, etc.
+- 👀 I’m interested in python, AWS, html, CSS, Javascript, etc.
 <br>
 
 
@@ -17,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,fastapi,go,docker,terraform,aws,gcp" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=unity,ruby,rails,html,css,js,figma,python,arduino,bootstrap,ocaml,sqlite,sass,aws,vscode" />
 <br>
 
 
